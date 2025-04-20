@@ -12,3 +12,4 @@ Software dev was a mess—rigid models like Waterfall crashed hard. Then came Ag
 
 ⭐ Star this repo if you dig it!  
 💬 Let’s chat Agile on [LinkedIn](https://www.linkedin.com/in/khaja-shaik-mohiddin/)
+👉 [📄 View the PDF](./Scrum_Evolution.pdf)
