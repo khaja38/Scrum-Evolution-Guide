@@ -1,7 +1,7 @@
 # 🏉 Scrum Evolution Guide
 *From Waterfall flops to Scrum’s rugby-powered rise—how Agile conquered software dev!*
 
-Hey there! I’m [Your Name], a curious SDET who dug into Scrum’s wild history while nailing my **Scrum Foundation Professional Certificate (CertiProf)** and **Certified Associate in Scrum Fundamentals™ (SkillFront)**. This repo’s got the full story—fun, detailed, and a bit cheeky.
+Hey there! I’m Khaja Shaik, a curious SDET who dug into Scrum’s wild history while nailing my **Scrum Foundation Professional Certificate (CertiProf)** and **Certified Associate in Scrum Fundamentals™ (SkillFront)**. This repo’s got the full story—fun, detailed, and a bit cheeky.
 
 ## What’s Inside?
 - 📄 **Scrum_Evolution.pdf**: The ultimate guide to Scrum’s origin, with humor and storytelling.
